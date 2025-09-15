@@ -1,6 +1,6 @@
 {
-  "version": "v8.36.51 (patches: 5.36.0)",
-  "versionCode": 31,
-  "zipUrl": "https://github.com/Zooandbio4me/Revanced/releases/download/31/music-revanced-magisk-v8.36.51-arm64-v8a.zip",
+  "version": "v8.36.51 (patches: 5.37.0)",
+  "versionCode": 32,
+  "zipUrl": "https://github.com/Zooandbio4me/Revanced/releases/download/32/music-revanced-magisk-v8.36.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/Zooandbio4me/Revanced/update/build.md"
 }
