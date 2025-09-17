@@ -1,4 +1,3 @@
-Music: 8.37.52  
 Reddit: 2024.17.0  
 YouTube: 20.13.41  
 
@@ -8,5 +7,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.38.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.38.0)  
+Patches: ReVanced/patches-5.39.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.39.0)  
